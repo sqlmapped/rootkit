@@ -1,4 +1,5 @@
 # Rootkit
+![image](https://github.com/user-attachments/assets/7d595983-f6e1-464e-aa04-4fc02c96b586)
 
 ## Introduction
 
